@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Summit Media Design, LLC",
+    "image": "https://summitmediadesign.com/assets/images/smd-final.png"
+  },
+  {
+    "id": 2,
+    "name": "BINGO on the Rocks",
+    "image": "https://summitmediadesign.com/assets/images/logos/bingo-on-the-rocks.png"
+  },
+  {
+    "id": 3,
+    "name": "Sedalias",
+    "image": "https://summitmediadesign.com/assets/images/logos/sedalias-1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Warpaths Football",
+    "image": "https://summitmediadesign.com/assets/images/logos/washington-warpaths-1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Spartan Player",
+    "image": "https://summitmediadesign.com/assets/images/logos/spartan-1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Motion Media Design",
+    "image": "https://summitmediadesign.com/assets/images/logos/motion-media-design-1FL.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Cupcake Genius",
+    "image": "https://summitmediadesign.com/assets/images/logos/cupcake-genius-1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "JCCNV Base",
+    "image": "https://summitmediadesign.com/assets/images/logos/b-a-s-e-1.jpg"
+  },
+  {
+    "id": 9,
+    "name": "WFS",
+    "image": "https://summitmediadesign.com/assets/images/logos/winning-financial-solutions-1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Digital Network Associates",
+    "image": "https://summitmediadesign.com/assets/images/logos/digital-network-associates-1.jpg"
+  },
+  {
+    "id": 11,
+    "name": "FirstLook Production Services",
+    "image": "https://summitmediadesign.com/assets/images/logos/firstlook-production-services-1.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Dave's Morning Show",
+    "image": "https://summitmediadesign.com/assets/images/logos/daves-morning-show-1.jpg"
+  }
+]
